@@ -1,5 +1,6 @@
 # Healthcheck
-[![NPM version][npm-image]][npm-url]
+
+![npm](https://img.shields.io/npm/v/@xclbr/healthcheck?style=flat-squere)
 
 This package contains whole Healthcheck server based on Express and Express middleware which can be used in your application. After deploing you can reach health endpoint at: 
 
